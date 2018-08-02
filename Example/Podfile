@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ISubscriber_Tests' do
+  pod 'ISubscriber', :path => '../'
+  
+  
+end
